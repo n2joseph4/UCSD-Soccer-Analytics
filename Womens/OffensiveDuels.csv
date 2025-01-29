@@ -1,0 +1,715 @@
+game,x1,y1,won,player,Side
+Cal,38.4,40.0,False,7,Right
+Cal,34.8,32.0,False,5,Left
+Cal,32.400000000000006,12.8,False,7,Left
+Cal,36.0,51.2,False,5,Right
+Cal,82.8,68.0,True,21,Right
+Cal,72.0,57.599999999999994,False,5,Right
+Cal,79.2,75.19999999999999,False,10,Right
+Cal,62.400000000000006,44.800000000000004,False,5,Right
+Cal,70.8,20.0,False,7,Left
+Cal,67.2,73.60000000000001,False,21,Right
+Cal,8.4,13.600000000000001,True,17,Left
+Cal,56.4,72.8,True,10,Right
+Cal,110.4,14.399999999999999,False,7,Left
+Cal,110.4,13.600000000000001,False,7,Left
+Cal,98.39999999999999,6.4,False,17,Left
+Cal,106.8,7.199999999999999,False,7,Left
+Cal,67.2,44.0,False,10,Right
+Cal,67.2,64.80000000000001,False,21,Right
+Cal,110.4,69.6,False,10,Right
+Cal,56.4,51.2,False,13,Right
+Cal,62.400000000000006,11.200000000000001,False,17,Left
+Cal,48.0,73.60000000000001,True,15,Right
+Cal,94.80000000000001,24.8,False,17,Left
+Cal,33.6,73.60000000000001,False,4,Right
+Cal,105.6,72.0,True,15,Right
+Cal,104.4,67.2,False,10,Right
+Cal,24.0,79.2,False,4,Right
+Cal,45.6,20.0,False,3,Left
+Cal,94.80000000000001,69.6,False,21,Right
+Cal,81.60000000000001,4.8,False,7,Left
+Cal,62.400000000000006,14.399999999999999,False,23,Left
+Cal,45.6,10.4,True,7,Left
+Cal,103.2,69.6,False,21,Right
+Cal,8.4,20.0,True,6,Left
+Cal,63.6,53.6,False,11,Right
+Cal,85.19999999999999,5.6000000000000005,True,15,Left
+Cal,87.6,12.8,True,15,Left
+Cal,49.199999999999996,4.8,False,15,Left
+Cal,48.0,16.0,False,15,Left
+Cal,55.2,26.400000000000002,True,15,Left
+Cal,30.0,53.6,True,6,Right
+Cal,56.4,28.0,False,3,Left
+Cal,24.0,36.800000000000004,False,3,Left
+Cal,9.6,24.0,True,6,Left
+Cal,38.4,2.4,False,17,Left
+Cal,28.799999999999997,49.6,False,7,Right
+Cal,46.800000000000004,55.199999999999996,False,27,Right
+Cal,63.6,55.199999999999996,False,11,Right
+Cal,48.0,49.6,False,7,Right
+Cal,92.4,70.4,False,21,Right
+Cal,63.6,12.8,False,5,Left
+Cal,91.2,65.6,False,10,Right
+Cal,38.4,61.6,False,5,Right
+Cal,49.199999999999996,48.8,False,11,Right
+Cal,96.0,14.399999999999999,False,11,Left
+Cal,3.5999999999999996,6.4,False,6,Left
+SF,43.199999999999996,56.0,True,3,Right
+SF,48.0,15.2,False,5,Left
+SF,78.0,32.8,False,5,Left
+SF,75.6,27.200000000000003,False,17,Left
+SF,92.4,4.0,False,7,Left
+SF,36.0,72.8,False,21,Right
+SF,54.0,30.4,False,7,Left
+SF,39.6,59.2,False,13,Right
+SF,40.800000000000004,48.0,True,10,Right
+SF,110.4,55.199999999999996,False,21,Right
+SF,84.0,56.0,False,10,Right
+SF,39.6,8.8,False,3,Left
+SF,108.0,69.6,False,21,Right
+SF,90.0,66.39999999999999,False,21,Right
+SF,32.400000000000006,69.6,False,21,Right
+SF,24.0,71.2,True,13,Right
+SF,32.400000000000006,72.0,False,10,Right
+SF,24.0,60.8,True,10,Right
+SF,22.8,26.400000000000002,False,6,Left
+SF,34.8,3.2,True,15,Left
+SF,46.800000000000004,3.2,False,15,Left
+SF,45.6,23.2,False,6,Left
+SF,34.8,57.599999999999994,False,13,Right
+SF,108.0,55.199999999999996,False,11,Right
+SF,48.0,71.2,False,13,Right
+SF,46.800000000000004,54.400000000000006,True,10,Right
+SF,102.0,15.2,False,15,Left
+SF,96.0,68.0,True,13,Right
+SF,97.2,68.0,False,21,Right
+SF,38.4,13.600000000000001,False,3,Left
+SF,85.19999999999999,6.4,False,15,Left
+SF,16.8,26.400000000000002,True,6,Left
+SF,28.799999999999997,5.6000000000000005,False,17,Left
+SF,27.6,4.0,False,15,Left
+SF,31.200000000000003,10.4,False,15,Left
+SF,38.4,56.8,False,5,Right
+SF,32.400000000000006,30.4,True,5,Left
+SF,110.4,10.4,True,15,Left
+SF,42.0,29.6,True,9,Left
+SF,37.2,2.4,False,9,Left
+SF,40.800000000000004,70.4,True,27,Right
+SF,39.6,9.6,True,17,Left
+SF,80.4,13.600000000000001,False,23,Left
+SF,79.2,11.200000000000001,True,15,Left
+SF,38.4,51.2,True,3,Right
+SF,70.8,74.4,False,15,Right
+SF,30.0,18.400000000000002,False,3,Left
+SF,37.2,6.4,False,21,Left
+SF,55.2,70.4,True,10,Right
+SF,108.0,32.8,False,21,Left
+SF,93.60000000000001,9.6,False,21,Left
+SF,84.0,12.0,False,3,Left
+SF,69.6,79.2,True,13,Right
+SF,111.60000000000001,71.2,True,15,Right
+SF,52.8,76.0,False,10,Right
+SF,72.0,70.4,False,10,Right
+SF,74.4,65.6,False,10,Right
+SF,79.2,76.0,False,15,Right
+SF,60.0,16.8,False,11,Left
+SF,54.0,18.400000000000002,True,11,Left
+SF,86.39999999999999,69.6,False,10,Right
+SF,56.4,48.8,False,5,Right
+SF,106.8,42.400000000000006,False,11,Right
+SF,78.0,66.39999999999999,True,5,Right
+SF,36.0,77.6,True,13,Right
+SF,87.6,14.399999999999999,True,21,Left
+SF,106.8,40.0,False,11,Right
+SF,104.4,13.600000000000001,False,11,Left
+SF,36.0,46.4,False,5,Right
+SF,32.400000000000006,31.200000000000003,False,6,Left
+SF,94.80000000000001,38.4,False,11,Left
+SF,90.0,63.2,True,15,Right
+SF,115.19999999999999,44.0,False,11,Right
+SF,74.4,59.2,False,10,Right
+SF,74.4,61.6,True,10,Right
+SF,7.199999999999999,8.8,True,17,Left
+SF,12.0,51.2,True,14,Right
+SF,110.4,69.6,False,15,Right
+SF,72.0,61.6,True,15,Right
+SF,54.0,72.8,False,5,Right
+SF,57.599999999999994,43.2,True,23,Right
+SF,110.4,10.4,True,17,Left
+SF,110.4,58.4,True,23,Right
+SF,90.0,61.6,True,13,Right
+SF,108.0,73.60000000000001,False,16,Right
+SF,73.2,48.0,False,10,Right
+SF,84.0,72.8,False,16,Right
+SF,82.8,6.4,False,17,Left
+SF,76.8,73.60000000000001,False,15,Right
+SF,48.0,34.4,True,6,Left
+SF,90.0,18.400000000000002,False,9,Left
+SF,27.6,15.2,True,17,Left
+SF,62.400000000000006,59.2,False,15,Right
+SF,39.6,32.8,False,3,Left
+SF,51.6,26.400000000000002,False,3,Left
+SF,37.2,16.8,False,6,Left
+SF,48.0,74.4,False,10,Right
+SF,34.8,19.2,False,27,Left
+SF,49.199999999999996,60.0,True,9,Right
+SF,90.0,24.8,True,22,Left
+Pepperdine,92.4,47.199999999999996,True,15,Right
+Pepperdine,91.2,46.4,False,15,Right
+Pepperdine,42.0,78.4,False,15,Right
+Pepperdine,109.2,68.0,False,15,Right
+Pepperdine,56.4,62.400000000000006,True,15,Right
+Pepperdine,36.0,40.8,False,8,Right
+Pepperdine,37.2,3.2,True,6,Left
+Pepperdine,114.0,70.4,True,15,Right
+Pepperdine,112.8,72.0,False,23,Right
+Pepperdine,110.4,64.80000000000001,True,10,Right
+Pepperdine,55.2,15.2,False,23,Left
+Pepperdine,61.2,60.0,True,13,Right
+Pepperdine,86.39999999999999,3.2,False,17,Left
+Pepperdine,102.0,17.6,False,23,Left
+Pepperdine,106.8,72.0,False,15,Right
+Pepperdine,102.0,71.2,True,10,Right
+Pepperdine,56.4,74.4,True,10,Right
+Pepperdine,50.4,13.600000000000001,False,23,Left
+Pepperdine,109.2,5.6000000000000005,True,21,Left
+Pepperdine,38.4,58.4,True,26,Right
+Pepperdine,51.6,77.6,False,5,Right
+Pepperdine,36.0,2.4,False,17,Left
+Pepperdine,80.4,76.0,False,27,Right
+Pepperdine,13.2,73.60000000000001,True,26,Right
+Pepperdine,96.0,12.8,False,18,Left
+Pepperdine,56.4,79.2,False,13,Right
+Pepperdine,102.0,2.4,False,21,Left
+Pepperdine,108.0,16.8,False,23,Left
+Pepperdine,103.2,13.600000000000001,True,21,Left
+Pepperdine,51.6,12.0,True,23,Left
+Pepperdine,48.0,4.0,False,23,Left
+Pepperdine,79.2,25.6,False,23,Left
+Pepperdine,90.0,24.0,True,3,Left
+Pepperdine,98.39999999999999,40.8,False,21,Right
+Pepperdine,92.4,38.4,True,23,Left
+Pepperdine,86.39999999999999,71.2,False,15,Right
+Pepperdine,44.4,16.0,False,23,Left
+Pepperdine,78.0,61.6,False,10,Right
+Pepperdine,91.2,68.0,True,15,Right
+Pepperdine,49.199999999999996,46.4,False,14,Right
+Pepperdine,58.8,75.19999999999999,False,15,Right
+Pepperdine,37.2,75.19999999999999,True,13,Right
+Pepperdine,86.39999999999999,67.2,True,10,Right
+Pepperdine,61.2,58.4,True,28,Right
+Pepperdine,105.6,12.8,True,21,Left
+Pepperdine,85.19999999999999,42.400000000000006,True,13,Right
+Pepperdine,58.8,4.8,False,21,Left
+Pepperdine,28.799999999999997,8.8,False,21,Left
+Pepperdine,28.799999999999997,66.39999999999999,True,26,Right
+Pepperdine,82.8,55.199999999999996,False,23,Right
+Pepperdine,70.8,52.0,False,10,Right
+Nevada,70.8,15.2,False,23,Left
+Nevada,85.19999999999999,4.8,True,21,Left
+Nevada,70.8,7.199999999999999,True,17,Left
+Nevada,34.8,6.4,True,17,Left
+Nevada,78.0,13.600000000000001,False,3,Left
+Nevada,78.0,45.599999999999994,False,10,Right
+Nevada,45.6,60.0,False,10,Right
+Nevada,82.8,12.8,False,23,Left
+Nevada,73.2,32.8,True,17,Left
+Nevada,30.0,71.2,True,13,Right
+Nevada,79.2,15.2,True,3,Left
+Nevada,91.2,60.0,True,15,Right
+Nevada,40.800000000000004,59.2,True,10,Right
+Nevada,68.39999999999999,20.8,False,23,Left
+Nevada,32.400000000000006,68.0,False,13,Right
+Nevada,38.4,58.4,False,10,Right
+Nevada,33.6,66.39999999999999,True,10,Right
+Nevada,73.2,13.600000000000001,False,23,Left
+Nevada,81.60000000000001,29.6,False,23,Left
+Nevada,31.200000000000003,17.6,True,6,Left
+Nevada,74.4,4.8,True,28,Left
+Nevada,80.4,6.4,True,17,Left
+Nevada,67.2,11.200000000000001,True,17,Left
+Nevada,46.800000000000004,5.6000000000000005,False,17,Left
+Nevada,34.8,4.8,True,6,Left
+Nevada,84.0,28.0,True,27,Left
+Nevada,45.6,16.8,False,9,Left
+Nevada,42.0,12.8,True,9,Left
+Nevada,34.8,19.2,True,9,Left
+Nevada,25.2,10.4,True,6,Left
+Nevada,94.80000000000001,5.6000000000000005,False,27,Left
+Nevada,85.19999999999999,9.6,False,27,Left
+Nevada,30.0,4.8,True,17,Left
+Nevada,81.60000000000001,76.0,False,15,Right
+Nevada,99.6,60.8,False,15,Right
+Nevada,86.39999999999999,74.4,False,15,Right
+Nevada,84.0,46.4,True,23,Right
+Nevada,27.6,10.4,False,21,Left
+Nevada,27.6,25.6,False,3,Left
+Nevada,68.39999999999999,62.400000000000006,False,23,Right
+Nevada,87.6,68.8,True,23,Right
+Nevada,91.2,62.400000000000006,False,15,Right
+Nevada,37.2,72.8,True,13,Right
+Nevada,103.2,16.8,True,21,Left
+Nevada,82.8,52.0,False,15,Right
+Nevada,54.0,41.6,True,8,Right
+Nevada,105.6,44.0,False,23,Right
+Nevada,114.0,68.0,True,15,Right
+Nevada,93.60000000000001,11.200000000000001,False,3,Left
+Nevada,84.0,74.4,False,15,Right
+Nevada,90.0,67.2,False,15,Right
+Nevada,108.0,8.8,False,21,Left
+Nevada,45.6,72.8,False,15,Right
+Nevada,86.39999999999999,12.8,True,21,Left
+Nevada,94.80000000000001,63.2,True,15,Right
+Nevada,82.8,73.60000000000001,False,15,Right
+Nevada,42.0,55.199999999999996,False,8,Right
+Nevada,40.800000000000004,72.0,False,5,Right
+Nevada,54.0,73.60000000000001,False,15,Right
+Nevada,14.399999999999999,12.0,False,6,Left
+Nevada,78.0,62.400000000000006,False,15,Right
+Nevada,79.2,52.0,False,15,Right
+Nevada,38.4,24.8,True,6,Left
+Nevada,80.4,56.8,True,15,Right
+Nevada,79.2,71.2,False,5,Right
+Nevada,90.0,72.0,True,15,Right
+Nevada,52.8,56.8,True,19,Right
+Nevada,72.0,8.8,True,17,Left
+Nevada,111.60000000000001,22.400000000000002,False,27,Left
+Nevada,108.0,10.4,False,19,Left
+Nevada,115.19999999999999,12.8,False,19,Left
+Nevada,68.39999999999999,75.19999999999999,False,18,Right
+Nevada,82.8,64.0,True,18,Right
+Nevada,36.0,47.199999999999996,True,9,Right
+Nevada,34.8,27.200000000000003,False,6,Left
+Nevada,38.4,43.2,False,22,Right
+Nevada,49.199999999999996,8.8,True,27,Left
+Nevada,66.0,40.0,True,22,Right
+Nevada,75.6,76.0,False,5,Right
+Nevada,69.6,22.400000000000002,True,27,Left
+CBU,50.4,1.6,False,17,Left
+CBU,81.60000000000001,17.6,False,23,Left
+CBU,69.6,68.8,False,10,Right
+CBU,50.4,9.6,False,3,Left
+CBU,46.800000000000004,3.2,True,21,Left
+CBU,90.0,58.4,False,15,Right
+CBU,74.4,58.4,False,3,Right
+CBU,117.6,53.6,False,23,Right
+CBU,102.0,68.8,True,10,Right
+CBU,73.2,74.4,False,15,Right
+CBU,110.4,3.2,False,21,Left
+CBU,46.800000000000004,20.0,False,28,Left
+CBU,108.0,56.0,False,15,Right
+CBU,115.19999999999999,66.39999999999999,False,15,Right
+CBU,86.39999999999999,12.0,False,18,Left
+CBU,42.0,9.6,True,10,Left
+CBU,84.0,36.0,False,15,Left
+CBU,51.6,15.2,True,8,Left
+CBU,52.8,35.2,False,6,Left
+CBU,73.2,3.2,False,18,Left
+CBU,104.4,68.0,True,15,Right
+CBU,51.6,52.0,True,8,Right
+CBU,46.800000000000004,6.4,True,23,Left
+CBU,57.599999999999994,37.599999999999994,False,23,Left
+CBU,24.0,73.60000000000001,True,13,Right
+CBU,61.2,73.60000000000001,False,15,Right
+CBU,36.0,73.60000000000001,False,28,Right
+CBU,50.4,6.4,False,28,Left
+CBU,78.0,45.599999999999994,True,3,Right
+CBU,76.8,51.2,False,3,Right
+CBU,55.2,62.400000000000006,False,15,Right
+CBU,79.2,22.400000000000002,True,3,Left
+CBU,48.0,68.0,False,15,Right
+CBU,48.0,76.0,False,15,Right
+CBU,106.8,74.4,False,23,Right
+CBU,118.8,68.8,False,23,Right
+CBU,49.199999999999996,76.8,False,13,Right
+Idaho,46.800000000000004,67.2,True,13,Right
+Idaho,30.0,65.6,False,13,Right
+Idaho,64.80000000000001,36.0,True,3,Left
+Idaho,87.6,8.8,False,21,Left
+Idaho,86.39999999999999,17.6,False,23,Left
+Idaho,105.6,74.4,True,15,Right
+Idaho,114.0,67.2,True,15,Right
+Idaho,100.8,72.8,False,13,Right
+Idaho,84.0,36.800000000000004,False,3,Left
+Idaho,88.8,36.800000000000004,False,3,Left
+Idaho,37.2,31.200000000000003,False,6,Left
+Idaho,33.6,12.0,True,17,Left
+Idaho,94.80000000000001,63.2,True,15,Right
+Idaho,46.800000000000004,12.0,False,21,Left
+Idaho,69.6,33.6,False,23,Left
+Idaho,74.4,7.199999999999999,False,3,Left
+Idaho,50.4,18.400000000000002,False,6,Left
+Idaho,88.8,74.4,False,15,Right
+Idaho,42.0,74.4,False,23,Right
+Idaho,15.600000000000001,45.599999999999994,False,13,Right
+Idaho,93.60000000000001,76.0,False,23,Right
+Idaho,96.0,12.8,False,21,Left
+Idaho,49.199999999999996,73.60000000000001,False,7,Right
+Idaho,98.39999999999999,24.0,False,10,Left
+Idaho,103.2,22.400000000000002,False,15,Left
+Idaho,85.19999999999999,33.6,False,3,Left
+Idaho,80.4,72.0,True,13,Right
+Idaho,94.80000000000001,12.0,True,10,Left
+Idaho,110.4,65.6,False,7,Right
+Idaho,49.199999999999996,10.4,False,17,Left
+Idaho,55.2,69.6,True,28,Right
+Idaho,82.8,8.0,False,5,Left
+Idaho,55.2,6.4,False,5,Left
+Idaho,76.8,28.799999999999997,False,8,Left
+Idaho,34.8,60.0,False,14,Right
+Idaho,80.4,8.0,True,28,Left
+Idaho,112.8,72.8,False,7,Right
+Idaho,72.0,10.4,False,5,Left
+Idaho,111.60000000000001,58.4,True,17,Right
+Idaho,92.4,5.6000000000000005,False,18,Left
+Idaho,42.0,76.0,False,13,Right
+Idaho,88.8,6.4,False,21,Left
+Idaho,80.4,61.6,True,15,Right
+Idaho,51.6,12.8,False,8,Left
+Idaho,103.2,19.2,True,21,Left
+Idaho,69.6,16.8,False,3,Left
+Idaho,79.2,61.6,False,15,Right
+Idaho,81.60000000000001,62.400000000000006,True,7,Right
+Idaho,76.8,51.2,True,10,Right
+Idaho,39.6,12.0,True,3,Left
+Idaho,80.4,4.8,False,21,Left
+Idaho,78.0,4.8,True,21,Left
+Idaho,78.0,67.2,False,15,Right
+Idaho,10.799999999999999,53.6,True,6,Right
+Idaho,86.39999999999999,45.599999999999994,True,10,Right
+Idaho,105.6,54.400000000000006,True,15,Right
+Idaho,74.4,24.8,False,15,Left
+Idaho,52.8,72.0,False,15,Right
+Idaho,72.0,6.4,False,9,Left
+Idaho,102.0,5.6000000000000005,True,7,Left
+Idaho,104.4,25.6,False,23,Left
+Idaho,92.4,14.399999999999999,True,17,Left
+Idaho,100.8,20.8,False,17,Left
+Idaho,76.8,66.39999999999999,False,5,Right
+Idaho,92.4,72.0,True,18,Right
+Idaho,92.4,49.6,False,7,Right
+Idaho,92.4,52.0,False,7,Right
+Idaho,76.8,72.0,False,18,Right
+Idaho,33.6,67.2,True,13,Right
+Idaho,88.8,56.8,False,23,Right
+Idaho,48.0,56.8,True,10,Right
+Idaho,67.2,16.0,True,23,Left
+Idaho,40.800000000000004,19.2,False,8,Left
+Idaho,66.0,10.4,False,23,Left
+Idaho,86.39999999999999,24.8,False,7,Left
+Idaho,69.6,69.6,True,10,Right
+Idaho,82.8,37.599999999999994,True,10,Left
+Idaho,87.6,74.4,False,7,Right
+Idaho,55.2,16.0,False,3,Left
+Idaho,85.19999999999999,50.4,False,10,Right
+Idaho,82.8,69.6,True,10,Right
+Idaho,81.60000000000001,11.200000000000001,True,6,Left
+Idaho,108.0,9.6,False,23,Left
+Washington State,73.2,22.400000000000002,False,3,Left
+Washington State,74.4,27.200000000000003,False,10,Left
+Washington State,111.60000000000001,12.8,False,21,Left
+Washington State,73.2,51.2,False,10,Right
+Washington State,9.6,45.599999999999994,False,13,Right
+Washington State,69.6,69.6,False,15,Right
+Washington State,20.400000000000002,5.6000000000000005,False,17,Left
+Washington State,10.799999999999999,67.2,True,13,Right
+Washington State,49.199999999999996,64.80000000000001,False,10,Right
+Washington State,75.6,64.0,False,15,Right
+Washington State,78.0,16.0,True,3,Left
+Washington State,86.39999999999999,18.400000000000002,False,8,Left
+Washington State,109.2,67.2,True,15,Right
+Washington State,36.0,68.8,True,15,Right
+Washington State,87.6,9.6,False,21,Left
+Washington State,18.0,41.6,False,6,Right
+Washington State,96.0,8.8,True,21,Left
+Washington State,52.8,36.800000000000004,True,6,Left
+Washington State,54.0,61.6,True,10,Right
+Washington State,90.0,72.8,True,15,Right
+Washington State,105.6,57.599999999999994,False,15,Right
+Washington State,9.6,26.400000000000002,False,6,Left
+Washington State,67.2,5.6000000000000005,False,21,Left
+Washington State,60.0,4.8,False,21,Left
+Washington State,67.2,8.8,False,3,Left
+Washington State,57.599999999999994,40.0,False,23,Right
+Washington State,57.599999999999994,15.2,False,23,Left
+Washington State,43.199999999999996,67.2,True,13,Right
+Washington State,87.6,47.199999999999996,False,7,Right
+Washington State,96.0,35.2,False,21,Left
+Washington State,44.4,6.4,False,21,Left
+Washington State,33.6,6.4,False,21,Left
+Washington State,28.799999999999997,12.0,True,28,Left
+Washington State,80.4,60.0,False,7,Right
+Washington State,80.4,44.0,False,7,Right
+Washington State,51.6,22.400000000000002,True,6,Left
+Washington State,34.8,48.0,False,13,Right
+Washington State,54.0,8.8,False,18,Left
+Washington State,90.0,36.0,False,5,Left
+Washington State,80.4,32.0,False,13,Left
+Washington State,10.799999999999999,13.600000000000001,True,6,Left
+Washington State,87.6,21.6,False,7,Left
+Washington State,40.800000000000004,46.4,True,10,Right
+Washington State,49.199999999999996,34.4,False,21,Left
+Washington State,37.2,11.200000000000001,True,21,Left
+Washington State,42.0,19.2,True,21,Left
+Washington State,55.2,62.400000000000006,True,15,Right
+Washington State,32.400000000000006,46.4,True,14,Right
+Washington State,88.8,16.0,True,3,Left
+Washington State,39.6,69.6,False,13,Right
+Washington State,40.800000000000004,17.6,True,21,Left
+Washington State,80.4,72.8,False,7,Right
+Washington State,36.0,13.600000000000001,True,21,Left
+Washington State,72.0,26.400000000000002,True,17,Left
+Washington State,54.0,76.0,False,7,Right
+Washington State,44.4,19.2,False,17,Left
+Washington State,56.4,20.8,False,28,Left
+Washington State,38.4,3.2,False,28,Left
+Washington State,49.199999999999996,6.4,False,28,Left
+Washington State,43.199999999999996,22.400000000000002,True,3,Left
+Washington State,108.0,10.4,False,21,Left
+Washington State,118.8,16.8,False,28,Left
+Washington State,75.6,78.4,True,10,Right
+Washington State,38.4,76.0,True,7,Right
+Washington State,42.0,20.8,True,17,Left
+Washington State,80.4,72.8,False,7,Right
+Washington State,81.60000000000001,62.400000000000006,False,10,Right
+Washington State,85.19999999999999,26.400000000000002,True,17,Left
+Washington State,82.8,76.0,False,7,Right
+Washington State,110.4,72.0,False,23,Right
+Washington State,75.6,73.60000000000001,True,13,Right
+Washington State,86.39999999999999,58.4,False,23,Right
+Washington State,19.2,57.599999999999994,False,14,Right
+Washington State,32.400000000000006,76.0,True,15,Right
+Washington State,26.4,76.8,True,13,Right
+Washington State,22.8,10.4,False,17,Left
+Washington State,56.4,13.600000000000001,True,23,Left
+Washington State,37.2,36.800000000000004,False,6,Left
+Washington State,52.8,7.199999999999999,False,21,Left
+Washington State,111.60000000000001,61.6,False,15,Right
+Washington State,75.6,32.0,True,21,Left
+Washington State,87.6,28.0,False,23,Left
+Washington State,82.8,48.8,False,10,Right
+Washington State,34.8,29.6,True,10,Left
+Washington State,51.6,48.8,True,10,Right
+SDSU,97.2,3.2,False,21,Left
+SDSU,69.6,50.4,False,10,Right
+SDSU,42.0,27.200000000000003,True,8,Left
+SDSU,100.8,54.400000000000006,True,7,Right
+SDSU,68.39999999999999,25.6,True,23,Left
+SDSU,94.80000000000001,29.6,False,23,Left
+SDSU,104.4,0.8,False,21,Left
+SDSU,104.4,60.0,True,7,Right
+SDSU,56.4,57.599999999999994,False,23,Right
+SDSU,92.4,7.199999999999999,True,21,Left
+SDSU,57.599999999999994,56.8,False,23,Right
+SDSU,87.6,3.2,True,23,Left
+SDSU,80.4,45.599999999999994,False,23,Right
+SDSU,50.4,67.2,False,23,Right
+SDSU,56.4,7.199999999999999,False,3,Left
+SDSU,37.2,16.0,False,6,Left
+SDSU,54.0,68.8,False,7,Right
+SDSU,99.6,6.4,True,21,Left
+SDSU,34.8,12.0,False,17,Left
+SDSU,50.4,29.6,False,23,Left
+SDSU,51.6,42.400000000000006,True,10,Right
+SDSU,97.2,13.600000000000001,True,21,Left
+SDSU,103.2,20.0,True,21,Left
+SDSU,68.39999999999999,1.6,True,21,Left
+SDSU,22.8,3.2,False,6,Left
+SDSU,51.6,58.4,True,13,Right
+SDSU,91.2,26.400000000000002,False,3,Left
+SDSU,38.4,76.0,True,13,Right
+SDSU,86.39999999999999,1.6,False,28,Left
+SDSU,96.0,26.400000000000002,False,28,Left
+SDSU,46.800000000000004,69.6,False,15,Right
+SDSU,114.0,75.19999999999999,False,15,Right
+SDSU,106.8,28.799999999999997,False,14,Left
+SDSU,22.8,72.8,False,13,Right
+SDSU,21.599999999999998,3.2,True,21,Left
+SDSU,115.19999999999999,9.6,False,23,Left
+SDSU,50.4,48.8,False,10,Right
+SDSU,15.600000000000001,23.2,False,14,Left
+SDSU,66.0,70.4,False,7,Right
+SDSU,49.199999999999996,47.199999999999996,False,3,Right
+SDSU,112.8,6.4,False,21,Left
+SDSU,111.60000000000001,19.2,True,23,Left
+SDSU,43.199999999999996,4.8,True,21,Left
+SDSU,67.2,12.8,True,17,Left
+SDSU,108.0,25.6,False,21,Left
+SDSU,46.800000000000004,27.200000000000003,False,8,Left
+SDSU,66.0,65.6,False,8,Right
+SDSU,72.0,72.8,False,10,Right
+SDSU,73.2,74.4,False,10,Right
+SDSU,86.39999999999999,76.0,False,15,Right
+SDSU,79.2,6.4,False,28,Left
+SDSU,79.2,60.8,True,15,Right
+SDSU,84.0,3.2,False,7,Left
+SDSU,106.8,63.2,False,15,Right
+SDSU,94.80000000000001,13.600000000000001,False,28,Left
+SDSU,70.8,64.0,True,10,Right
+SDSU,103.2,75.19999999999999,False,15,Right
+SDSU,86.39999999999999,68.0,True,23,Right
+SDSU,88.8,77.6,False,15,Right
+SDSU,56.4,8.8,True,17,Left
+SDSU,103.2,8.0,True,21,Left
+SDSU,7.199999999999999,18.400000000000002,True,6,Left
+SDSU,40.800000000000004,20.8,False,21,Left
+SDSU,32.400000000000006,16.8,False,10,Left
+SDSU,100.8,77.6,False,10,Right
+SDSU,116.39999999999999,70.4,False,23,Right
+SDSU,117.6,76.8,False,23,Right
+SDSU,117.6,77.6,False,23,Right
+Irvine,87.6,10.4,False,23,Left
+Irvine,67.2,36.800000000000004,True,10,Left
+Irvine,103.2,68.0,True,7,Right
+Irvine,55.2,37.599999999999994,False,10,Left
+Irvine,73.2,9.6,False,21,Left
+Irvine,46.800000000000004,4.0,False,8,Left
+Irvine,102.0,55.199999999999996,False,7,Right
+Irvine,76.8,59.2,False,7,Right
+Irvine,12.0,32.8,False,17,Left
+Irvine,37.2,12.0,False,17,Left
+Irvine,42.0,76.0,True,7,Right
+Irvine,74.4,63.2,True,10,Right
+Irvine,64.80000000000001,12.8,False,21,Left
+Irvine,84.0,7.199999999999999,False,23,Left
+Irvine,68.39999999999999,5.6000000000000005,False,17,Left
+Irvine,90.0,39.2,False,23,Left
+Irvine,50.4,5.6000000000000005,True,21,Left
+Irvine,48.0,67.2,False,7,Right
+Irvine,74.4,9.6,False,3,Left
+Irvine,54.0,16.0,False,8,Left
+Irvine,48.0,12.0,False,17,Left
+Irvine,79.2,72.0,False,15,Right
+Irvine,86.39999999999999,68.8,False,15,Right
+Irvine,103.2,13.600000000000001,True,21,Left
+Irvine,81.60000000000001,14.399999999999999,False,3,Left
+Irvine,21.599999999999998,34.4,True,14,Left
+Irvine,97.2,75.19999999999999,False,11,Right
+Irvine,34.8,63.2,False,15,Right
+Irvine,78.0,68.8,True,10,Right
+Irvine,90.0,74.4,True,15,Right
+Irvine,86.39999999999999,73.60000000000001,False,15,Right
+Irvine,72.0,17.6,False,17,Left
+Irvine,50.4,64.0,True,8,Right
+Irvine,85.19999999999999,13.600000000000001,False,17,Left
+Irvine,70.8,46.4,True,8,Right
+Irvine,103.2,76.0,False,23,Right
+Irvine,34.8,72.8,True,14,Right
+Irvine,57.599999999999994,64.0,False,23,Right
+Irvine,55.2,76.8,False,10,Right
+Irvine,81.60000000000001,14.399999999999999,False,3,Left
+Irvine,55.2,76.0,True,7,Right
+Irvine,51.6,29.6,True,21,Left
+Irvine,49.199999999999996,8.0,False,21,Left
+Irvine,63.6,28.799999999999997,False,3,Left
+Irvine,68.39999999999999,40.0,False,10,Right
+Irvine,72.0,24.8,False,21,Left
+Irvine,104.4,69.6,False,3,Right
+Irvine,80.4,67.2,True,13,Right
+Irvine,94.80000000000001,9.6,True,23,Left
+Irvine,97.2,31.200000000000003,False,17,Left
+Irvine,80.4,76.8,False,23,Right
+Irvine,93.60000000000001,76.0,False,15,Right
+Irvine,91.2,73.60000000000001,False,15,Right
+Irvine,92.4,76.8,True,15,Right
+Irvine,88.8,73.60000000000001,False,15,Right
+Irvine,79.2,75.19999999999999,False,10,Right
+Irvine,85.19999999999999,26.400000000000002,True,17,Left
+Irvine,58.8,56.0,False,10,Right
+Irvine,58.8,62.400000000000006,False,10,Right
+Irvine,37.2,73.60000000000001,False,14,Right
+Irvine,109.2,68.8,True,15,Right
+Irvine,114.0,12.8,True,21,Left
+Irvine,93.60000000000001,76.0,False,15,Right
+Pacific,64.80000000000001,34.4,False,23,Left
+Pacific,84.0,29.6,False,10,Left
+Pacific,79.2,12.8,False,3,Left
+Pacific,76.8,56.8,False,23,Right
+Pacific,69.6,9.6,False,21,Left
+Pacific,34.8,9.6,False,3,Left
+Pacific,50.4,16.8,False,23,Left
+Pacific,48.0,58.4,False,8,Right
+Pacific,38.4,36.800000000000004,False,4,Left
+Pacific,46.800000000000004,63.2,True,10,Right
+Pacific,67.2,52.0,True,8,Right
+Pacific,91.2,9.6,True,21,Left
+Pacific,99.6,41.6,False,7,Right
+Pacific,114.0,59.2,False,23,Right
+Pacific,87.6,36.800000000000004,False,8,Left
+Pacific,116.39999999999999,8.0,False,3,Left
+Pacific,90.0,21.6,False,3,Left
+Pacific,60.0,14.399999999999999,True,17,Left
+Pacific,79.2,1.6,False,17,Left
+Pacific,75.6,33.6,True,10,Left
+Pacific,111.60000000000001,68.8,False,7,Right
+Pacific,66.0,69.6,True,13,Right
+Pacific,78.0,72.0,False,7,Right
+Pacific,72.0,73.60000000000001,True,7,Right
+Pacific,85.19999999999999,56.8,False,10,Right
+Pacific,72.0,53.6,False,10,Right
+Pacific,97.2,71.2,False,7,Right
+Pacific,85.19999999999999,60.8,True,13,Right
+Pacific,99.6,54.400000000000006,False,11,Right
+Pacific,44.4,3.2,False,21,Left
+Pacific,98.39999999999999,11.200000000000001,False,21,Left
+Pacific,110.4,56.0,False,15,Right
+Pacific,49.199999999999996,18.400000000000002,False,11,Left
+Pacific,98.39999999999999,68.0,True,15,Right
+Pacific,76.8,8.0,True,17,Left
+Pacific,109.2,70.4,True,15,Right
+Pacific,106.8,51.2,False,17,Right
+Pacific,115.19999999999999,3.2,False,18,Left
+Pacific,73.2,70.4,False,5,Right
+Pacific,55.2,4.0,False,18,Left
+Pacific,76.8,8.8,False,18,Left
+Pacific,67.2,5.6000000000000005,True,17,Left
+Pacific,92.4,59.2,False,7,Right
+Pacific,97.2,14.399999999999999,True,21,Left
+Pacific,86.39999999999999,68.8,False,7,Right
+Pacific,68.39999999999999,76.8,False,23,Right
+Pacific,58.8,66.39999999999999,False,7,Right
+Pacific,116.39999999999999,8.0,True,3,Left
+Pacific,103.2,4.8,True,17,Left
+Pacific,67.2,31.200000000000003,False,3,Left
+Pacific,51.6,31.200000000000003,False,23,Left
+Pacific,66.0,78.4,True,7,Right
+Pacific,79.2,68.8,True,23,Right
+Pacific,109.2,11.200000000000001,False,21,Left
+Pacific,96.0,66.39999999999999,True,10,Right
+Pacific,46.800000000000004,53.6,False,10,Right
+Pacific,44.4,70.4,False,7,Right
+Pacific,37.2,20.8,False,3,Left
+Pacific,55.2,7.199999999999999,True,17,Left
+Pacific,73.2,74.4,True,7,Right
+Pacific,115.19999999999999,72.8,True,7,Right
+Pacific,56.4,9.6,False,15,Left
+Pacific,70.8,19.2,True,8,Left
+Pacific,80.4,16.8,True,15,Left
+Pacific,104.4,23.2,False,17,Left
+Pacific,73.2,70.4,True,7,Right
+Pacific,108.0,74.4,True,7,Right
+Pacific,73.2,22.400000000000002,False,15,Left
+Pacific,51.6,73.60000000000001,True,13,Right
+Pacific,62.400000000000006,76.0,False,7,Right
+Pacific,50.4,22.400000000000002,True,11,Left
+Pacific,84.0,69.6,False,10,Right
+Pacific,79.2,72.0,False,10,Right
+Pacific,109.2,76.0,False,21,Right
+Pacific,50.4,68.8,False,15,Right
+Pacific,40.800000000000004,68.0,True,10,Right
+Pacific,105.6,22.400000000000002,True,17,Left
+Pacific,100.8,13.600000000000001,True,21,Left
+Pacific,110.4,45.599999999999994,False,7,Right
+Pacific,75.6,17.6,False,23,Left
+Pacific,97.2,12.0,True,23,Left
+Pacific,97.2,22.400000000000002,False,23,Left
+Pacific,94.80000000000001,26.400000000000002,True,21,Left
+Pacific,92.4,8.8,True,21,Left
+Pacific,114.0,72.8,False,10,Right
+Pacific,68.39999999999999,76.0,False,13,Right
+Pacific,91.2,64.0,False,23,Right
+Pacific,78.0,78.4,False,13,Right
+Pacific,58.8,63.2,False,23,Right
+Pacific,117.6,13.600000000000001,False,10,Left
+Pacific,38.4,7.199999999999999,False,8,Left
